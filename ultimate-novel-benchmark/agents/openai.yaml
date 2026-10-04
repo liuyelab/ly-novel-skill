@@ -1,0 +1,4 @@
+interface:
+  display_name: "对标样本与写作基线"
+  short_description: "按项目需要筛选多部对标小说并生成可复用写作基线"
+  default_prompt: "使用 $ultimate-novel-benchmark 为我的小说筛选对标样本并建立写作基线。"
