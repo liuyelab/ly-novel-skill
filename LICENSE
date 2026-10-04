@@ -1,21 +1,24 @@
-MIT License
+LY小说Skill 授权说明 / License
 
-Copyright (c) 2025-2026 oh-story-claudecode
+本仓库由两部分组成，分别适用不同授权：
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. 来自开源项目 oh-story-claudecode 的原始部分
+   按 MIT 协议授权，原作者版权声明见 LICENSE-MIT，转发时须一并保留。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. 刘野（liuyelab）新增和改写的部分（包括但不限于世界运转与暗线推演、人物说话习惯卡、卷摘要、使用说明及各模块中的改写内容）
+   按 知识共享 署名-非商业性使用 4.0 国际许可协议（CC BY-NC 4.0）授权：
+   https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans
+   - 可以免费使用、修改、分享，转发须署名"刘野（liuyelab）"并附本仓库链接；
+   - 禁止任何商业用途，包括但不限于：出售、倒卖、改名再卖、放进付费课程或付费社群。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+整体分发时，以上两部分同时适用；凡涉及第 2 部分的内容，均不得商用。
+
+---
+
+This repository contains two parts under different licenses:
+
+1. Original portions from oh-story-claudecode: MIT License (see LICENSE-MIT).
+2. All additions and modifications by Liu Ye (liuyelab): CC BY-NC 4.0
+   (https://creativecommons.org/licenses/by-nc/4.0/). Attribution required; no commercial use.
+
+When distributed as a whole, both apply; any material containing part 2 may not be used commercially.
