@@ -1,13 +1,13 @@
-# LY小说Skill
+# 天道小说Skill
 
-> A Chinese web-novel writing skill for AI assistants (Claude Code, Codex, etc.). Free for non-commercial use; see the license notes at the end.
+> Tiandao (Heavenly Dao) — a Chinese web-novel writing skill for AI assistants, where the world runs on its own. Free for non-commercial use; see the license notes at the end.
 
 
 整理：刘野老师（抖音号 liuyelab）
 
 ## 这是什么
 
-LY小说Skill 是一套装进 AI 里用的中文网文写作 Skill（AI 里的模块编号是 `ultimate-novel`，安装和使用时照写就行）。装好以后，你用大白话跟 AI 说要干什么，它会按这套规矩来干：
+天道小说Skill 是一套装进 AI 里用的中文网文写作 Skill（AI 里的模块编号是 `ultimate-novel`，安装和使用时照写就行）。取名“天道”：世界有自己的规律，主角不在场，别的势力也照样运转。装好以后，你用大白话跟 AI 说要干什么，它会按这套规矩来干：
 
 - **选题**：看方向、比较几个题材哪个好写好卖；
 - **开书**：建好项目文件夹，记下你的设定、人物和禁区；
@@ -42,7 +42,7 @@ GitHub 在国内有时打不开，或者很慢。打不开就多试几次，或�
 
 直接跟你的 AI 助手说：
 
-> 帮我把 github.com/liuyelab/ly-novel-skill 里的 Skill 全部装上
+> 帮我把 github.com/liuyelab/tiandao-novel-skill 里的 Skill 全部装上
 
 它会自己下载并装好。装完如果它说要重启，就关掉再打开。
 

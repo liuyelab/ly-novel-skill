@@ -3,7 +3,7 @@ name: ultimate-novel
 description: "Route broad, ambiguous, or multi-stage Chinese novel requests across market evidence, topic selection, benchmark baselines, analysis, setup, import, outlining, drafting, review, revision, packaging, and performance diagnosis. Use when several stages are combined, the correct specialized module is unclear, or a brief contextual follow-up must inherit the current stage; skip this router when one ultimate-novel-* skill clearly matches."
 ---
 
-# LY小说Skill 路由
+# 天道小说Skill 路由
 
 本模块只选择专业模块和处理顺序，不自行评价、创作或修改作品，也不加载正文细则。能够确定目标模块时直接进入，不先加载本路由。
 
